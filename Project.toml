@@ -1,0 +1,18 @@
+name = "Channelflow_jll"
+uuid = "3f71b17c-0b5c-5f71-8ab7-7b799a58f30d"
+version = "1.0.0+0"
+
+[deps]
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+FFTW_jll = "f5851436-0d7a-5f13-b9de-f02708fd171a"
+NetCDF_jll = "7243133f-43d8-5620-bbf4-c2c921802cf3"
+HDF5_jll = "0234f1f7-429e-5d53-9886-15a909be8d59"
+Eigen_jll = "bc6bbf8a-a594-5541-9c57-10b0d0312c70"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.7"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
