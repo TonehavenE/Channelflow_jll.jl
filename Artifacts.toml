@@ -7,7 +7,15 @@ os = "linux"
 
     [[Channelflow.download]]
     sha256 = "dedb9b62765e918451bb4aaf608f14603155fca4dbf77f9fa740a28c38ca430d"
-    url = "https://github.com/TonehavenE/Channelflow_jll.jl/releases/download/Channelflow-v1.0.1+0/Channelflow.v1.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/TonehavenE/Channelflow_jll.jl/releases/download/Channelflow-v1.0.2+0/Channelflow.v1.0.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Channelflow]]
+arch = "aarch64"
+git-tree-sha1 = "386e4e65ad552017424be94fc7108f5157b92c09"
+os = "freebsd"
+
+    [[Channelflow.download]]
+    sha256 = "d05df9299bed2ca7533c63b152bb851fae728059ce49964067312294b0050f80"
+    url = "https://github.com/TonehavenE/Channelflow_jll.jl/releases/download/Channelflow-v1.0.2+0/Channelflow.v1.0.2.aarch64-unknown-freebsd.tar.gz"
 [[Channelflow]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -17,4 +25,12 @@ os = "linux"
 
     [[Channelflow.download]]
     sha256 = "a3ad8a3603af293b243b50aa02969509030e9fefe5bda3208de298a39335ae46"
-    url = "https://github.com/TonehavenE/Channelflow_jll.jl/releases/download/Channelflow-v1.0.1+0/Channelflow.v1.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/TonehavenE/Channelflow_jll.jl/releases/download/Channelflow-v1.0.2+0/Channelflow.v1.0.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Channelflow]]
+arch = "x86_64"
+git-tree-sha1 = "216c2b98ab46fbd3ba5eb1d7813507219b1702b8"
+os = "freebsd"
+
+    [[Channelflow.download]]
+    sha256 = "8b41e3b8282ca35d3ebd6b788e6bb59e7bddaed1725c9e8fd6587fc0c98225b7"
+    url = "https://github.com/TonehavenE/Channelflow_jll.jl/releases/download/Channelflow-v1.0.2+0/Channelflow.v1.0.2.x86_64-unknown-freebsd.tar.gz"
