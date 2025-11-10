@@ -1,6 +1,6 @@
 name = "Channelflow_jll"
 uuid = "3f71b17c-0b5c-5f71-8ab7-7b799a58f30d"
-version = "1.0.0+0"
+version = "1.0.1+0"
 
 [deps]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
